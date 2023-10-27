@@ -1,16 +1,9 @@
-div{
-    background-color:  #011627;
-    align-items: center;
-    font-size: 10px;
-    text-transform: uppercase;
-    padding: 1px;
-    opacity: 100%;
-
+.navbar{
+    background-color: #0d1321;
 }
-div h1{
+.navbar h1{
     color: white;
-    width: 42vh;
-    align-items: center;
-    padding: 10px;
-    border-radius: 100px;
+    text-transform: uppercase;
+    padding: 5px;
+    font-size: 22px;
 }

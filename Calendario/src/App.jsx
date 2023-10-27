@@ -1,12 +1,12 @@
+import Card1 from "../components/MidComponent/card1";
 import Topbar from "../components/TopBar";
 
 function App() {
 
   return (
     <>
-      <div>
         <Topbar />
-      </div>
+        <Card1 />
     </>
   )
 }
