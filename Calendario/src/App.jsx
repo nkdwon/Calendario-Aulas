@@ -1,8 +1,12 @@
+import Topbar from "../components/TopBar";
+
 function App() {
 
   return (
     <>
-      <h1>Calendário</h1>
+      <div>
+        <Topbar />
+      </div>
     </>
   )
 }
