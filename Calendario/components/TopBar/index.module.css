@@ -7,3 +7,16 @@
     padding: 5px;
     font-size: 22px;
 }
+
+.navbar a{
+    margin-top: 8px;
+    color: white;
+    text-transform: uppercase;
+    padding: 5px;
+    font-size: 12px;
+}
+
+.titulo{
+    display: flex;
+    justify-content: space-between;
+}
