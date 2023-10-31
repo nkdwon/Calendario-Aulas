@@ -6,7 +6,6 @@ export default function Topbar() {
             <div className= {styles.navbar}>
                 <div className= {styles.titulo}>
                     <h1>Agenda Online</h1>
-                    <a> Adoro homens </a>
                     <a>Pedro Costa, Felipe Barros, Matheus Amaral, Bernardo Alves</a>
                 </div>
             </div>
