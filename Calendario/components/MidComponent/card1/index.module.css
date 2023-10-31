@@ -9,7 +9,7 @@
     -webkit-backdrop-filter: blur(13.4px);
 }
 .container .titulo h1{
-    background-color: #1d2d44;
+    background-color: #423E37;
     text-align: center;
     color: white;
     border-top-right-radius: 20px;
@@ -25,7 +25,7 @@
     gap: 10px;
 }
 .container .inside button{
-    background-color: #1d2d44;
+    background-color: #423E37;
     font-size: 20px;
     padding: 4px;
     border: none;
