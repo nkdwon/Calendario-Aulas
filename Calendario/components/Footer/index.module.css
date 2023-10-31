@@ -1,0 +1,19 @@
+.navbar{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #0d1321;
+}
+
+.navbar a{
+    color: white;
+    text-transform: uppercase;
+    padding: 12px;
+    font-size: 12px;
+}
+
+.bottom{
+    display: flex;
+    justify-content: center;
+}
