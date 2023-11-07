@@ -10,9 +10,9 @@ export default function Topbar() {
                     <div className={styles.dropdown}>
                         <button className={styles.dropbtn}>Menu</button>
                         <div className={styles.dropdowncontent}>
-                            <a href="">Link 1</a>
-                            <a href="">Link 2</a>
-                            <a href="">Link 3</a>
+                            <a href="">Cadastrar Aulas</a>
+                            <a href="">Cadastrar Horários</a>
+                            <a href="">Calendário</a>
                         </div>
                     </div>
 
