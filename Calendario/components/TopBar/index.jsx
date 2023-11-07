@@ -1,4 +1,5 @@
 import styles from './index.module.css'
+import Link from 'react-router-dom'
 
 export default function Topbar() {
     return (
@@ -10,9 +11,9 @@ export default function Topbar() {
                     <div className={styles.dropdown}>
                         <button className={styles.dropbtn}>Menu</button>
                         <div className={styles.dropdowncontent}>
-                            <a href="">Cadastrar Aulas</a>
-                            <a href="">Cadastrar Horários</a>
-                            <a href="">Calendário</a>
+                            <Link href="">Cadastrar Aulas</Link>
+                            <Link  href="">Cadastrar Horários</Link>
+                            <Link href="">Calendário</Link>
                         </div>
                     </div>
 
